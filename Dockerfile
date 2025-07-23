@@ -1,7 +1,7 @@
 # Dockerfile
 
 # Use official Python base image
-FROM python:3.8-slim
+FROM python:3.13.5-slim
 
 # Set working directory inside the container
 WORKDIR /app
